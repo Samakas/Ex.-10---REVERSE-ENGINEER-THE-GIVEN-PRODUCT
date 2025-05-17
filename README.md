@@ -30,13 +30,16 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
 
 ### Output:
 
+![empd 11](https://github.com/user-attachments/assets/b0bb7400-56ed-4147-afac-beef259913ed)
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/b3eedc60-8c95-4677-9b10-2c01b8edf8a9)
+
+
+### Name: Samakash R S
+### Register Number:212223230182
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
